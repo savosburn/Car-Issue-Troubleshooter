@@ -117,6 +117,6 @@ public class App {
     }
 
     public void printOutput(String output) {
-        System.out.println(output);
+        System.out.print(output);
     }
 }
